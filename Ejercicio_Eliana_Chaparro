@@ -1,0 +1,7 @@
+
+y=tan u   U=x2
+dy/dx=dd/Utan*d/dX(x2)
+=d/dU senU/conU*d/dX(x2)
+=cosU*cosU+senU*senU/cosU2*2x
+=sen U2(2x)
+2*sen2(x2)
